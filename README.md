@@ -19,6 +19,7 @@ Afficher le type de chaque variable avec typeof.<br>
 Convertir x en nombre et afficher son nouveau type.<br>
 Expliquer pourquoi JavaScript peut changer dynamiquement le type d’une variable.<br>
 
+
 **Exercice 2 — Manipulation de chaînes et concaténation**
 
 Déclarez :<br>
